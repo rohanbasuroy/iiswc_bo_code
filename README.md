@@ -8,4 +8,4 @@ Please install scikit-optimize, scikit-learn, and numpy libraries in Python3 or 
 
 (2) **hands_on_2.py:** An example to demonstrate how multiple variable types can be used in a search space and how a BO overhead gradually increases.
 
-(3) **hands_on_3.py:** 
+(3) **hands_on_3.py:** A real example of autotuning an HPC application (**kripke.exe**) using BO, showing custom ways of designing the acquisition function and surrogate model of a BO. 
